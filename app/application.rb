@@ -29,7 +29,7 @@ class Application
         "added #{item_to_add}"
       else
         "We don't have that item"
-      end 
+      end
     else
       resp.write "Path Not Found"
     end
